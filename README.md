@@ -7,7 +7,7 @@ The goal is to analyze the sales data and identify useful insights to help the s
 
 ## Steps Followed in this project
 
-step : 1 
+Step : 1 
 		Business requirement (business requirement document) From the client
 
 Step : 2
